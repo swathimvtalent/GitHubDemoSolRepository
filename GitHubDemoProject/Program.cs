@@ -15,6 +15,7 @@ namespace GitHubDemoProject
             b = 20;
             res = a + b;
             Console.WriteLine("The Addition is  : "+res);
+            Console.WriteLine("The Program is Completed");
             Console.ReadKey();
         }
     }
