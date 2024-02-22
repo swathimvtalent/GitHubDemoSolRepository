@@ -10,6 +10,12 @@ namespace GitHubDemoProject
     {
         static void Main(string[] args)
         {
+            int a, b, res;
+            a = 10;
+            b = 20;
+            res = a + b;
+            Console.WriteLine("The Addition is  : "+res);
+            Console.ReadKey();
         }
     }
 }
